@@ -1,3 +1,1 @@
-# bespectacled-bear.github.io
-
-Comic books galore!!!!
+# My Personal Website Sandbox
